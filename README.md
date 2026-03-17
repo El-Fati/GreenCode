@@ -46,7 +46,7 @@ Make sure you have the following installed:
 ---
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/GreenCode.git
+git clone https://github.com/El-Fati/GreenCode.git
 
 cd GreenCode
 
